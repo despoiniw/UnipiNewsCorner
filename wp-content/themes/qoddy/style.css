@@ -1,0 +1,107 @@
+ /*
+
+Theme Name:   Qoddy
+
+Description:  Best Theme For Blog. 
+
+Author:       deltamadhav
+
+Author URI:   
+
+Template:     doo
+
+Version:      1.0.3
+
+License:      GNU General Public License v2 or later
+
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+
+Tags:         custom-background, custom-colors,custom-menu,featured-images,sticky-post,theme-options,translation-ready, blog
+
+Text Domain:  qoddy
+
+*/
+
+
+
+.site-branding {
+    padding: 15px 0px;
+}
+
+.site-title
+{
+    margin-bottom: 10px;
+}
+
+.site-title,.site-description
+{
+    text-align: left;
+}
+
+.main-navigation
+{
+	border: 0px;
+    background: #c51e3a;
+}
+
+.search-form .search-submit
+{
+	top: 24px;
+}
+
+.site-footer {
+    background: #c51e3a;
+}
+
+.site-info a {
+    color: #FFF;
+}
+
+.site-info
+{
+	color: #FFF;
+	padding: 20px 0px;
+}
+
+#back_top
+{
+	background: #d87787;
+}
+
+div#primary {
+    margin-top: 30px;
+}
+
+.main-navigation div >ul >li >a
+{
+	color: #fff;
+}
+
+.main-navigation div >ul >li >a:hover, .main-navigation div >ul >li >a:focus, .site-info a:hover, .site-info a:focus {
+    color: #FFF;
+    text-decoration: none;
+}
+
+.post.sticky 
+{
+    background: #efefef;
+    padding: 20px 30px;
+}
+
+.site-title a:hover, .site-title a:focus, .site-title a:active {
+        color: #333333;
+    text-decoration: none;
+}
+
+/************responsive css start**********/
+
+@media only screen and ( max-width: 479px ) {
+
+#banner-image {
+    background-size: contain;
+    height: 100px;
+}
+
+}
+
+/************responsive css end**********/

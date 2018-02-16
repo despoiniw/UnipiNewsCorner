@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=n > 1\n"
+"Project-Id-Version: Multiplayer plugin\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2011-12-19 15:18+0100\n"
+"Last-Translator: Cristiano Leoni <cris.leoni@gmail.com>\n"
+"Language-Team: cris.leoni@gmail.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Who's there"
+msgstr "Chi c'è"
+
+msgid "Play Now!"
+msgstr "Gioca ora!"
+
+msgid "Play Fullscreen"
+msgstr "Gioca a tutto schermo"
+
+msgid "Name of the game"
+msgstr "Nome del gioco"
+
+msgid "Settings updated"
+msgstr "Impostazioni aggiornate"
+
+msgid "Main Configuration"
+msgstr "Configurazione Principale"
+
+msgid "Games List"
+msgstr "Lista dei Giochi"
+
+msgid "Tip: insert the shortcode [games] in any page or post to display games list"
+msgstr "Trucco: inserisci lo shortcode [games] in una pagina o un articolo per visualizzare la lista dei giochi"
+
+msgid "New Game"
+msgstr "Nuovo Gioco"
+
+msgid "Game Servers"
+msgstr "Game Server"
+
+msgid "Play"
+msgstr "Gioca a"
+
+msgid "Edit Server"
+msgstr "Modifica Server"
+
+msgid "Edit Game"
+msgstr "Modifica Gioco"
+
+msgid "Multiplayer Servers"
+msgstr "Multiplayer - Servers"
+
+msgid "Multiplayer Games"
+msgstr "Multiplayer - Giochi"
+
+msgid "Add Game Server &raquo;"
+msgstr "Aggiungi Game Server &raquo;"
+
+msgid "Play window size"
+msgstr "Dimensioni finestra di gioco"
+
+msgid "Enable [Play Fullscreen] button"
+msgstr "Abilita pulsante [Gioca tutto schermo]"
+
+msgid "Add AdSense ads to games"
+msgstr "Aggiungi annunci AdSense ai giochi"
+
+msgid "AdSense publisher ID to be used in ads"
+msgstr "ID publisher AdSense da usare per gli annunci"
+
+msgid "The specified URL is not valid"
+msgstr "L'URL specificato non è valido"

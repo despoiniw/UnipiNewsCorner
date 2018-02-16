@@ -1,0 +1,60 @@
+/*
+Styles for the Multiplayer Plugin
+*/
+
+#games table { /* Style for the games list main table */
+	width:100%;
+	border-spacing:0;
+	border: none;
+}
+
+#games td {
+	vertical-align: top;
+	padding:5px; 
+}
+
+.dx_name {
+	/* Style for games titles in the list */
+	font-size:1.2em;
+}
+
+.dx_category {
+	background:#ddd;
+}
+
+.dx_category h3 {
+	color:#000;
+}
+
+#play { 
+	text-align:center;
+	width:728px;
+	margin:0;
+	padding:0;
+}
+
+#play iframe { 
+	width:100%;
+	margin: 0;
+	padding:0;
+}
+
+dx_playhelpers {
+	margin-bottom: 10px;
+}
+
+.whosthere { 
+	width: 110px;
+	text-align: center;
+	font-size: 0.8em;
+}
+
+.gameicon {
+	width: 100px;
+}
+
+.playlink {
+	font-size: 3em;
+	line-height:3em;
+}
+
